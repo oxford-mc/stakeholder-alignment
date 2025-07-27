@@ -4,7 +4,7 @@
 <div align="center">
     <img src="images/oxford_logo.png" alt="OxfordLogo" width="150" height="150">
 
-  <h3 align="center">Mining Digital Identity Insights: Patent Analysis using NLP</h3>
+  <h3 align="center">Universal Digital Identity Stakeholder Alignment: Context-Layered RAG Architectures for Ecosystem-Aware AI</h3>
 
   <p align="center">
     A repository with reproducibility package to accompany the published article
@@ -18,11 +18,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p>The field of digital identity innovation has grown significantly over the last 30 years, with over 6,000 technology patents registered worldwide. However, many questions remain about who controls and owns our digital identity and intellectual property and, ultimately, where the future of digital identity is heading.
-</p>
-<p>To investigate this further, this research mines digital identity patents and explores core themes such as identity, systems, privacy, security, and emerging fields like blockchain, financial transactions, and biometric technologies. Utilizing natural language processing (NLP) methods, including part-of-speech tagging, clustering, topic classification, noise reduction, and lemmatisation techniques. Finally, the research employs graph modelling and statistical analysis to discern inherent trends and forecast future developments.</p>
-
-<p>The findings significantly contribute to the digital identity landscape, identifying key players, emerging trends, and technological progress. This research serves as a valuable resource for academia and industry stakeholders, aiding in strategic decision-making and investment in emerging technologies and facilitating navigation through the dynamic realm of digital identity technologies. </p>
+<p>A universal approach to managing a person's digital identity may be the single most important advancement to the Internet since its inception, promising the seamless flow of information, averting cybercrime, eliminating login credentials, and restoring privacy and trust through greater control of one's identity online. However, this advancement brings significant risks, especially regarding personal privacy. It demands the meticulous development of digital identity infrastructure that balances robust data security measures with ethical handling of sensitive information, thereby safeguarding against misuse and unauthorised access. Currently, a consolidated vision for digital identity implementation remains unresolved, and aligning the different stakeholders' motives and expectations is a challenging task. This article reviews and analyses the perspectives and expectations of the four key stakeholder groups - government, business, academia and consumers - regarding a digital identity ecosystem, aiming to increase trust in an eventual design framework.</p>p>
 
 <!-- Use the `BLANK_README.md` to get started.-->
 
